@@ -1,3 +1,4 @@
+
 SELECT *
 FROM CovidDeaths$
 ORDER BY 3,4
