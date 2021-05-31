@@ -14,10 +14,10 @@ SELECT location, date, total_cases,new_cases, total_deaths, population
 FROM ..CovidDeaths$
 order by 1,2
 
--- Convert 'date' from varchar to datetime format (Hidden)
+--Convert 'date' from varchar to datetime format (Hidden)
  
 
--- Total Cases vs Total Deaths: Likelihood of survival if infected
+--Total Cases vs Total Deaths: Likelihood of survival if infected
 
 SELECT location,date, total_cases, total_deaths, (total_deaths/total_cases)*100 AS 'case_lethality %'
 FROM CovidDeaths$
