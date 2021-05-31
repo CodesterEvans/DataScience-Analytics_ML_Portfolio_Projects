@@ -5,7 +5,7 @@
 SELECT *
 FROM ..[NashvilleHousing]
 
--- Date Formatting
+--Date Formatting
 
 SELECT SaleDateConverted
 FROM ..[NashvilleHousing]
