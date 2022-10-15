@@ -1,4 +1,3 @@
-# Data Science, Analytics, and ML Portfolio_Projects
 
 ## 1) [SQL Queries Project: Showcasing Query Ability](https://github.com/CodesterEvans/Portfolio_Projects/blob/8c2e5046fad95c6a3ad18d603d87871974f42f2d/SQL_Queries_Project.sql)
 
