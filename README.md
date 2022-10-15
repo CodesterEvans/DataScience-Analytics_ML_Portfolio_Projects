@@ -13,6 +13,9 @@
 -- Exhibits geographical maps with pop-up statistics when a country is hovered over.\
 -- Forecasting indicators for infections, high contrast color coding for visual appeal, column/row tables, graphing, and on-graph labels.
 
+![image](https://user-images.githubusercontent.com/75640201/195998942-61674521-8d7b-4863-97e9-d818719e9590.png)
+
+
 ## 3) [SQL Data Cleaning Project](https://github.com/CodesterEvans/Portfolio_Projects/blob/8c2e5046fad95c6a3ad18d603d87871974f42f2d/SQL_Data_Cleaning_Project.sql)
 
 --Converting datatypes, breaking columns into more usable columns(addresses), self joins, substrings/parsename, case statements to standardize data in columns, and partitions.\
