@@ -1,6 +1,6 @@
-# Portfolio_Projects
+# Data Science, Analytics, and ML Portfolio_Projects
 
-## 1) [SQL Queries Project: Showcasing query ability](https://github.com/CodesterEvans/Portfolio_Projects/blob/8c2e5046fad95c6a3ad18d603d87871974f42f2d/SQL_Queries_Project.sql)
+## 1) [SQL Queries Project: Showcasing query Ability](https://github.com/CodesterEvans/Portfolio_Projects/blob/8c2e5046fad95c6a3ad18d603d87871974f42f2d/SQL_Queries_Project.sql)
 
 --Demonstrating proficiency in the application of the fundamentals of SQL including SELECT, FROM, WHERE, GROUP BY, ORDER BY, and JOINS. \
 --Includes use of aggregate functions, CTEs, datatype conversions, partitions, rolling counts, and creating updatable views.  \
